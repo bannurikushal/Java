@@ -1,0 +1,42 @@
+Coversion of Decimal to Octal?
+Ans:To convert a decimal number to octal, we use the method of repeated division by 8.
+    Here's how to convert 75 decimal to octal:
+    1.Divide 75 by 8:
+    75÷8=9 with a remainder of 3
+    2.Divide the quotient (9) by 8:
+    9÷8=1 with a remainder of 1
+    3.Divide the quotient (1) by 8:
+    1÷8=0 with a remainder of 1
+    Now, read the remainders from bottom to top: 1,1,3.
+    Therefore, 75=113
+
+Ans:To convert a decimal number to octal, you use the method of repeated division by 8.
+    to convert 200 decimal to octal
+    1.Divide 200 by 8:
+    200÷8=25 with a remainder of 0.
+    2.Divide 25 by 8:
+    25÷8=3 with a remainder of 1.
+    3.Divide 3 by 8:
+    3÷8=0 with a remainder of 3.
+    Now, collect the remainders from bottom to top: 3, 1, 0.
+    So, 200=310
+
+Ans:To convert the decimal number 127 to octal, we use the method of repeated division by the base 
+    of the target number system, which is 8 for octal.
+    Here are the steps:
+    1.Divide 127 by 8:
+    127÷8=15 with a remainder of 7.
+    2.Divide the quotient (15) by 8:
+    15÷8=1 with a remainder of 7.
+    3.Divide the quotient (1) by 8:
+    1÷8=0 with a remainder of 1.
+    Now, collect the remainders from bottom to top: 1, 7, 7.
+    so,127=177
+
+
+
+
+​
+ 
+
+

@@ -1,0 +1,14 @@
+Coversion of Ocatal to decimal?
+Ans: To convert an octal number to a decimal number, you multiply each digit of the octal number by 
+    increasing powers of 8, starting from the rightmost digit.
+    For the octal number 247:
+   . The rightmost digit is 7, which is in the 8^0 position.
+   .The middle digit is 4, which is in the 8^1 position.
+   .The leftmost digit is 2, which is in the 8^2 position.
+   So, the conversion is calculated as follows:
+    Therefore, the octal number 247 
+    247=(2*8^2)+(4*8^1)+(7*8^0)
+       =(2×64)+(4×8)+(7×1)
+       	​=128+32+7
+        =167
+    Therefore, the octal number 247 is equal to the decimal number 167 
