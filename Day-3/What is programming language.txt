@@ -1,0 +1,78 @@
+What is programming language?
+Ans:A programming language is a formal system of notation that allows humans to communicate 
+    instructions to a computer. Think of it as a specialized language designed for writing software, 
+    websites, applications, and other technology.
+
+What is algorithm?
+Ans:An algorithm is a precise, step-by-step set of instructions or a finite sequence of well-defined, 
+    unambiguous rules that describe how to solve a particular problem or perform a specific task.
+    Think of it as a recipe for computation.
+Eamples of Algorithms:
+    1.Everyday Life Algorithms (You use them without realizing!):
+    .Finding a Book in a Library:
+    .Input: Book title/author, library layout.
+    .Steps: Check the catalog, note the call number, go to the correct section, locate the 
+     shelf, find the book.
+    .Output: The desired book.
+
+    2.Algorithm for adding two numbers:
+    Here's a simple algorithm for adding two numbers, presented in a few different ways to illustrate 
+    clarity and structure:
+    Algorithm: Add Two Numbers
+     Step-by-Step (Simple English):
+    1.Start the process.
+    2.declare the variables (ex:x,z)
+    3.declare the values for the variables (ex:10,10)
+    4.print a+b
+    5.Display or output the value of sum.
+    6.End the process.
+
+Generations of programming language?
+Ans:1st Generation Language (1GL) - Machine Language
+    .Characteristics: These are the lowest-level languages, consisting entirely of binary code 
+    (0s and 1s). They are directly understood by the computer's CPU without any translation.
+    .How it works: Programmers had to write instructions in the exact binary patterns that a 
+     specific computer architecture could execute.
+    .Examples: Raw binary code. You wouldn't typically see named examples as it's directly tied 
+     to the specific hardware's instruction set.
+    .Era: Roughly 1940s to early 1950s.
+
+    2nd Generation Language (2GL) - Assembly Language
+    .Characteristics: A slight abstraction over machine language. Instead of binary codes, it
+     uses symbolic operation codes (mnemonics) and symbolic addresses.
+    .How it works: An "assembler" program translates assembly code into machine code. While 
+     more readable than 1GL, it still requires a deep understanding of the underlying hardware 
+     architecture.
+    .Examples: NASM, MASM (specific assemblers for Intel, Motorola processors, etc.).
+    .Era: Roughly 1950s.
+
+    3rd Generation Language (3GL) - High-Level Languages (Procedural & Object-Oriented)
+    .Characteristics: These languages are significantly more abstract, using English-like 
+     keywords, mathematical symbols, and common syntax that are much easier for humans to 
+     understand and write. They are more machine-independent.
+    .How it works: A "compiler" or "interpreter" translates 3GL code into machine code. This 
+     allows programmers to focus on what the program should do rather than how the hardware 
+     executes it.
+    .Examples:object-Oriented (a paradigm within 3GL): C++, Java, Python, C#, Smalltalk.
+    .Era: Roughly 1950s - 1990s (and many are still widely used today).
+
+    4th Generation Language (4GL) - Very High-Level Languages / Problem-Oriented
+    Languages
+    .Characteristics: Designed to be even closer to natural human language, focusing on what 
+     needs to be done rather than how it's done. Often non-procedural and domain-specific.
+    .How it works: These languages typically have built-in functions and powerful constructs 
+     that allow a lot of functionality with minimal code, especially for specific tasks. They often
+     involve visual programming tools or declarative syntax.
+    .Era: Roughly 1980s - Present.
+
+    5th Generation Language (5GL) - Natural Language / Artificial Intelligence Languages
+    .Characteristics: These languages are still largely in the realm of research and theoretical 
+     development. The goal is to allow programmers (or even non-programmers) to interact with 
+     computers using natural human language or by specifying constraints and problems rather 
+     than step-by-step algorithms.
+    .How it works: They aim for computers to solve problems using artificial intelligence, expert 
+     systems, and logic programming, where the user describes the problem and the constraints, 
+     and the system finds the solution.
+    .Examples: Prolog (used in AI and expert systems), OPS5, Mercury.
+    .Era: 1990s - Present (ongoing research and development).
+
